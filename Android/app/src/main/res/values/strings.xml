@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">RxKotlin and MVVM Examples</string>
+    <string name="multiple_tests">%s\n%s\n%s</string>
+    <string name="spending">Spending</string>
+    <string name="rxcall">RxCall</string>
+    <string name="title">Title</string>
+    <string name="description">Description</string>
+    <string name="value">0.00</string>
+    <string name="save">Save</string>
+    <string name="money_value">$%.2f</string>
+    <string name="add_spending_missing">Title, description or value is empty.</string>
+    <string name="delete_all">Delete all</string>
+</resources>
